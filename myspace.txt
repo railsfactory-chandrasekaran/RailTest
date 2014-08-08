@@ -2,3 +2,5 @@ notify master
 
 2. Master edit for reason
 
+3. Updates from the new branch either
+
