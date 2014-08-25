@@ -5,3 +5,5 @@ notify master
 3. Updates from the new branch either
 
 4. push to repository
+
+5. Added from deploy branch
